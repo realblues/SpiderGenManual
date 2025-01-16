@@ -1,0 +1,10 @@
+<div data-base="AView" data-class="MainView" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(239, 239, 239); position: absolute;" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;ATree&quot;,&quot;ATextField&quot;,&quot;AButton&quot;]}">
+    <div data-base="ATree" data-class="ATree" class="ATree-Style" style="width: 280px; height: 420px; position: absolute; left: 10px; top: 10px; border-width: 1px; border-style: solid;" id="MainView--tree" data-listener-select="MainView:onTreeSelect">
+        <ul style="margin: 0px; padding: 0px; white-space: nowrap;"></ul>
+    </div>
+    <div data-base="AView" data-class="AView" class="AView-Style" style="width: calc((100% - 0px) - 300px); height: 420px; position: absolute; top: 20px; right: 0px; background-color: rgba(0, 0, 0, 0);" data-sgap-width="1">
+        <input data-base="ATextField" data-class="ATextField" type="text" value="" class="ATextField-Style" autocomplete="off" style="width: calc((100% - 10px) - 110px); height: 30px; position: absolute; margin-left: -1px; top: 10px; left: 10px;" id="MainView--nameTxf" placeholder="추가할 아이템 이름" data-sgap-width="1">
+        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 90px; height: 30px; position: absolute; margin-left: -1px; top: 10px; right: 10px;" id="MainView--addBtn" data-listener-click="MainView:onAddBtnClick">ADD ITEM</button>
+        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 90px; height: 30px; position: absolute; margin-left: -1px; top: 50px; right: 10px;" id="MainView--delBtn" data-listener-click="MainView:onDelBtnClick">DELETE ITEM</button>
+    </div>
+</div>

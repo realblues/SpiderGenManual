@@ -1,0 +1,3 @@
+<div data-base="AView" data-class="Tabview2" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(255, 0, 0); position: absolute;" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;ALabel&quot;]}"
+    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 110px; top: 100px; background-color: rgb(255, 255, 255); font-weight: bold; font-size: 20px;">2번 탭입니다</label
+></div>

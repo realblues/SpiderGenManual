@@ -1,0 +1,8 @@
+<div data-base="AView" data-class="MainView" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(239, 239, 239); position: absolute;" data-max-aradiobutton="1" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;ALabel&quot;,&quot;ARadioGroup&quot;,&quot;ARadioButton&quot;]}">
+    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 80px; top: 80px; font-size: 15px;" id="MainView--labelID">선택내용</label>
+    <div data-base="ARadioGroup" data-class="ARadioGroup" class="ARadioGroup-Style" style="width: 290px; height: 90px; position: absolute; left: 80px; top: 100px;" id="MainView--rdoGroup01">
+        <span data-base="ARadioButton" data-class="ARadioButton" class="ARadioButton-Style" tabindex="0" style="width: auto; height: auto; position: absolute; left: 30px; top: calc(50% - 7px); font-size: 15px;" data-center-y="true" data-group="Rdos" data-radio-value="100" data-listener-click="MainView:onARadioButtonClick">노랑</span>
+        <span data-base="ARadioButton" data-class="ARadioButton" class="ARadioButton-Style" tabindex="0" style="width: auto; height: auto; position: absolute; left: calc(50% - 39.5px); top: calc(50% - 7px); font-size: 15px;" data-center-x="true" data-center-y="true" data-group="Rdos" data-radio-value="200" data-listener-click="MainView:onARadioButtonClick">빨강</span>
+        <span data-base="ARadioButton" data-class="ARadioButton" class="ARadioButton-Style" tabindex="0" style="width: auto; height: auto; position: absolute; left: 180px; top: 37px; font-size: 15px;" data-group="Rdos" data-radio-value="300" data-listener-click="MainView:onARadioButtonClick">초록</span>
+    </div>
+</div>

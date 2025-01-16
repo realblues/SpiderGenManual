@@ -1,0 +1,4 @@
+<div data-base="AView" data-class="InnerView2" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(0, 0, 255); position: absolute;" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;ALabel&quot;,&quot;AButton&quot;]}">
+    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 20px; top: 20px; font-size: 25px; font-weight: bold; background-color: rgb(255, 255, 255);" id="InnerView2--lbl001">세번째 뷰 입니다.</label>
+    <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 100px; height: 40px; position: absolute; left: 20px; top: 70px;" data-listener-click="InnerView2:onAButton1Click">Button</button>
+</div>
